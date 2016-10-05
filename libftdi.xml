@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://raw.githubusercontent.com/kyleparrott/libftdi/master/libftdi.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+    <name>libftdi</name>
+    <summary>libhftdi</summary>
+    <group arch="MacOSX-*">
+        <implementation id="sha1=964d78ae7a977acc72d3c18153bcc2730aa0a0f9" version="0.0">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libftdi/master/libftdi1.2.dylib.zip" size="21553"/>
+        </implementation>
+    </group>
+    <group arch="Linux-*">
+        <implementation id="sha1=1d3da7497234a8d4b6242a47ba0d70b9eeb69edc" version="0.0">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libftdi/master/libftdi.so.1.zip" size="13838"/>
+        </implementation>
+    </group>
+</interface>
+<!-- Base64 Signature
+iQIcBAABCgAGBQJX9VyYAAoJEJzS+Pb4kySc2UgP/01JPAqIoDPxrmTisMdtfRT3vHXAzMBF7nSA
+izv9oLi+a6lpOLmYQUWxu24V1j/LHsCDO3z8PDkhQtvO459QvcMvsDYwr336SFdFdCM2AkYS1d6u
+9A/Lo93bwnv6PpkM4m02NQfLpX+9BVrRjTJ630F2uZeCkDvXpyYvkKNhnqMJLXiVj64SSXW/v0ES
+7ZJh3LTR/XBLMP615LIckkANNQzPTwy0wCkUhGvkMNHBUWYc+Q1t3yDrlTHo4Ht7eAEIFcJnDEML
+MBEfk9MAoCZFuENMQDpkpqjtUbX0LXTnMK5IuA3uHCx0w8MayfVpc+h4v3K6Pb/S1wdxRzXLeNiY
+ntkC0Y0khDr6z/qTTtHXf1oIj//Cgq3e9qsBbvPqK8qkds1tB5lAD+o5eot6VPcGPoITaHQy4r/y
+WpE0jnZ9JIeuwBKBBSJPD8PlXS8yoi7zG0oNdEUyTILWe/4/Lja/HwUBvyy6vb2QKVOdvCXnEA7M
+26JbAaKOVCAoBE2TgqV+2oKQK2aTjFZjJsaSY6QWeePrIp7F/pUquUXmkfPz4tBnmknmzGrzSM0u
+vkcebs26dVG96/V8XHPTy+xYRzbVtkCFIpgEK2CnM3+ltctTEdXWzK4GC21GMD++iwFz8U/tClmS
+8/gpB2qC7x5WvSAYicW+DkZkjiKV4bc9IGm8Cp/y
+
+-->
